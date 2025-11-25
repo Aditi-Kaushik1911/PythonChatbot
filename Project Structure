@@ -1,0 +1,10 @@
+chatbot/
+│
+├── src/
+│   ├── chatbot.py
+│   ├── intents.json
+│   └── utils.py
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
